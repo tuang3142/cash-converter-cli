@@ -1,10 +1,11 @@
-# cash-convert-CLI
+# cash converter
 
-convert money using api
+currency converter using latest data from [fixer.io](fixer.io)
 
 ## to do
 
 - [ ] public to pip
+- [ ] look up for currency code
 - [ ] svg image
 - [x] use api
 - [x] not use api?
