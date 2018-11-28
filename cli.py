@@ -26,10 +26,10 @@ def update(ctx, param, value):
 @click.argument('fr')
 @click.argument('to')
 @click.version_option(message='v%(version)s')
-@click.option('--update', help='Update the exchange rate and exit.', callback=update, expose_value=False, is_eager=True, is_flag=True)
+@click.option('--update', help='Update exchange rate and exit.', callback=update, expose_value=False, is_eager=True, is_flag=True)
 def cli(amount, fr, to):
     """
-    Currency converter using lastest data from fixer.io
+    Currency converter using latest data from fixer.io
     """
     with open('exchange_rate.json', 'r') as f:
         data = json.load(f)
