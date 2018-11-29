@@ -5,6 +5,7 @@ currency converter using latest data from [fixer.io](https://fixer.io/)
 ## usage
 
 ```bash
+Syntax:
 $ cashconverter [OPTIONS] AMOUNT FR TO
 
 Options:
