@@ -1,11 +1,11 @@
-# cash converter 0.0.1
+# cash converter 0.1
 
-currency converter using latest data from [fixer.io](fixer.io)
+currency converter using latest data from [fixer.io](https://fixer.io/)
+
+## usage
 
 ```bash
-Usage: cashconverter [OPTIONS] AMOUNT FR TO
-
-  Currency converter using latest data from fixer.io
+$ cashconverter [OPTIONS] AMOUNT FR TO
 
 Options:
   --version  Show the version and exit.
@@ -14,18 +14,30 @@ Options:
 
 Example:
 $ cashconverter 10 USD VND
-> 10.00 USD equals 233359.96 VND
+10.00 USD equals 233359.96 VND
 ```
+
+## demo
+
+![demo](https://svgshare.com/i/9aJ.svg "Demo")
 
 ## installation
 
-## mit licence
+in the extracted folder run
+
+```bash
+$ pip install --editable .
+$ cashconverter --update
+Updated.
+```
 
 ## to do
 
-- [ ] public to pip
+next version should have
+
+- [ ] come with package
 - [ ] look up for currency code
-- [ ] svg image
+- [x] svg image
 - [x] use api
 - [x] not use api?
 - [x] custom help
