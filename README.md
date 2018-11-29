@@ -1,6 +1,7 @@
 # cash converter 0.1
 
 currency converter using latest data from [fixer.io](https://fixer.io/)
+
 ![demo](https://rawcdn.githack.com/daenylio/cash-converter-cli/master/demo.svg "demo")
 
 ## usage
