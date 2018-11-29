@@ -1,6 +1,7 @@
 # cash converter 0.1
 
 currency converter using latest data from [fixer.io](https://fixer.io/)
+![demo](https://rawcdn.githack.com/daenylio/cash-converter-cli/master/demo.svg "demo")
 
 ## usage
 
@@ -17,10 +18,6 @@ Example:
 $ cashconverter 10 USD VND
 10.00 USD equals 233359.96 VND
 ```
-
-## demo
-
-![demo](https://rawcdn.githack.com/daenylio/cash-converter-cli/master/demo.svg "demo")
 
 ## installation
 
