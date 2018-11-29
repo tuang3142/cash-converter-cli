@@ -19,7 +19,7 @@ $ cashconverter 10 USD VND
 
 ## demo
 
-![demo](https://rawcdn.githack.com/daenylio/cash-converter-cli/master/demo.svg "Demo")
+![demo](https://rawcdn.githack.com/daenylio/cash-converter-cli/master/demo.svg "demo")
 
 ## installation
 
