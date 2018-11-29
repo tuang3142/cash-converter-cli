@@ -19,7 +19,7 @@ $ cashconverter 10 USD VND
 
 ## demo
 
-![demo](https://svgshare.com/i/9aJ.svg "Demo")
+![demo](https://raw.githubusercontent.com/daenylio/cash-converter-cli/master/demo.svg "Demo")
 
 ## installation
 
