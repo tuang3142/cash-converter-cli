@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='cash-converter-cli',
-    version='0.1.1',
+    version='0.1.2',
     author="Tuan Nguyen",
     author_email="tuan.nguyenviet271@gmail.com",
     description="Currency converter using lastest data from fixer.io",

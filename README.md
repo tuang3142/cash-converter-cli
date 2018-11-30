@@ -1,4 +1,4 @@
-# cash converter 0.1.1
+# cash converter 0.1.2
 
 currency converter using latest data from [fixer.io](https://fixer.io/)
 
@@ -25,8 +25,7 @@ $ cashconverter 10 USD VND
 in the extracted folder run
 
 ```bash
-$ pip install cash-converter-cli
-$ cashconverter --update
+pip install cash-converter-cli
 ```
 
 ## to do
@@ -40,4 +39,4 @@ next version should have
 - [x] custom help
 - [x] update
 - [ ] look up for currency code
-- [ ] database
+- [x] database
