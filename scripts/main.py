@@ -12,8 +12,9 @@ def update(ctx, param, value):
     p = { 'access_key': key }
     response = requests.get(url, params=p)
 
-    with open('exchange_rate.json', 'w') as f:
+    with open('scripts/exchange_rate.json', 'w') as f:
         f.write(response.text)
+        f.close()
     
     date = response.json()['date']
     message = 'Updated {}.'.format(date)
@@ -31,7 +32,7 @@ def cli(amount, fr, to):
     """
     Currency converter using latest data from fixer.io
     """
-    with open('exchange_rate.json', 'r') as f:
+    with open('scripts/exchange_rate.json', 'r') as f:
         data = json.load(f)
 
     try:
