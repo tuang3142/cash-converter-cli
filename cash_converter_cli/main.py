@@ -59,23 +59,19 @@ def look(query):
     
     def lookname(word):
         import re
-        countries = currency_code.keys()
-        query = re.compile(word.upper())
+        query = re.compile(word, flags=re.I)
         ret = []
-        for country in countries:
-            if re.search(query, country):
-                ret.append(country)
+        for it in currency_code:
+            if re.search(query, it['name']):
+                ret.append(it)
         return ret
         
     results = lookname(query)
     if len(results) == 0:
         click.echo('Error: Currency not found.')
-    elif len(results) == 1:
-        currency, code = currency_code[results[0]]
-        message = "CURRENCY: {}\nCODE: {}".format(currency, code)
-        click.echo(message)
     else:
-        click.echo('Did you mean:')
         for r in results:
-            click.echo(r)
+            currency, code = r['name'], r['code']
+            message = "{1} ({0})".format(currency, code)
+            click.echo(message)
             

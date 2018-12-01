@@ -117,3 +117,4 @@ dmypy.json
 # Editor / IDE
 .vscode
 cash_converter_cli/data/foo.py
+cash_converter_cli/data/currency_code.csv
