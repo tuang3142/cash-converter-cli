@@ -24,12 +24,12 @@ Commands:
 ## examples
 
 ```bash
-$ cashconverter look china
-TWD (New Taiwan Dollar)
-CNY (Yuan Renminbi)
-
-$ cashconverter convert 3142 jpy usd
-3142.00 JPY equals 27.68 USD
+$ cashconverter look vietnam
+VND (Vietnamese dong)
+$ cashconverter look yen
+JPY (Japanese yen)
+$ cashconverter convert 3142 jpy vnd
+3142.00 JPY equals 645667.10 VND
 ```
 
 ## installation
@@ -37,6 +37,10 @@ $ cashconverter convert 3142 jpy usd
 ```bash
 pip install cash-converter-cli
 ```
+
+## credits
+
+special thanks to [Vijay Mahrra](https://github.com/vijinho)'s [data](https://github.com/vijinho/ISO-Country-Data) of country code.
 
 ## to do
 

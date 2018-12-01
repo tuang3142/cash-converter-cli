@@ -1,1 +1,1 @@
-include cash_converter_cli/data*
+include cash_converter_cli/data/*.json
