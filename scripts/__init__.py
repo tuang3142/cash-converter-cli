@@ -1,1 +1,0 @@
-name="cash-converter-cli"

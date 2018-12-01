@@ -1,1 +1,1 @@
-include scripts/exchange_rate.json
+include cash_converter_cli/data*

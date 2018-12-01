@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='cash-converter-cli',
-    version='0.1.2',
+    version='0.2',
     author="Tuan Nguyen",
     author_email="tuan.nguyenviet271@gmail.com",
     description="Currency converter using lastest data from fixer.io",
@@ -19,7 +19,7 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        cashconverter=scripts.main:cli
+        cashconverter=cash_converter_cli.main:cli
     ''',
     classifiers=[
         "Programming Language :: Python :: 3",

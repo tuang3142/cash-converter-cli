@@ -1,23 +1,35 @@
-# cash converter 0.1.2
+# cash converter 0.2
 
 currency converter using latest data from [fixer.io](https://fixer.io/)
 
 ![demo](https://rawcdn.githack.com/daenylio/cash-converter-cli/master/demo.svg "demo")
 
-## usage
+## help
 
 ```bash
-Syntax:
-$ cashconverter [OPTIONS] AMOUNT FR TO
+Usage: cashconverter [OPTIONS] COMMAND [ARGS]...
+
+  Currency converter using latest data from fixer.io
 
 Options:
   --version  Show the version and exit.
-  --update   Update exchange rate and exit.
   --help     Show this message and exit.
 
-Example:
-$ cashconverter 10 USD VND
-10.00 USD equals 233359.96 VND
+Commands:
+  convert
+  look     Look for currency code.
+  update   Update exchange rate.
+```
+
+## examples
+
+```bash
+$ cashconverter look japan
+> CURRENCY: Yen
+> CODE: JPY
+
+$ cashconverter convert 3142 jpy usd
+> 3142.00 JPY equals 27.68 USD
 ```
 
 ## installation
@@ -38,5 +50,5 @@ next version should have
 - [x] not use api?
 - [x] custom help
 - [x] update
-- [ ] look up for currency code
+- [x] look up for currency code
 - [x] database

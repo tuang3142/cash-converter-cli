@@ -1,0 +1,1170 @@
+{
+    "AFGHANISTAN": [
+      "Afghani",
+      "AFA"
+    ],
+    "ÅLAND ISLANDS": [
+      "Markka",
+      "FIM"
+    ],
+    "ALBANIA": [
+      "Old Lek",
+      "ALK"
+    ],
+    "ALGERIA": [
+      "Algerian Dinar",
+      "DZD"
+    ],
+    "AMERICAN SAMOA": [
+      "US Dollar",
+      "USD"
+    ],
+    "ANDORRA": [
+      "French Franc",
+      "FRF"
+    ],
+    "ANGOLA": [
+      "Kwanza Reajustado",
+      "AOR"
+    ],
+    "ANGUILLA": [
+      "East Caribbean Dollar",
+      "XCD"
+    ],
+    "ANTARCTICA": [
+      "No universal currency",
+      ""
+    ],
+    "ANTIGUA AND BARBUDA": [
+      "East Caribbean Dollar",
+      "XCD"
+    ],
+    "ARGENTINA": [
+      "Peso",
+      "ARY"
+    ],
+    "ARMENIA": [
+      "Russian Ruble",
+      "RUR"
+    ],
+    "ARUBA": [
+      "Aruban Florin",
+      "AWG"
+    ],
+    "AUSTRALIA": [
+      "Australian Dollar",
+      "AUD"
+    ],
+    "AUSTRIA": [
+      "Schilling",
+      "ATS"
+    ],
+    "AZERBAIJAN": [
+      "Russian Ruble",
+      "RUR"
+    ],
+    "BAHAMAS (THE)": [
+      "Bahamian Dollar",
+      "BSD"
+    ],
+    "BAHRAIN": [
+      "Bahraini Dinar",
+      "BHD"
+    ],
+    "BANGLADESH": [
+      "Taka",
+      "BDT"
+    ],
+    "BARBADOS": [
+      "Barbados Dollar",
+      "BBD"
+    ],
+    "BELARUS": [
+      "Russian Ruble",
+      "RUR"
+    ],
+    "BELGIUM": [
+      "Financial Franc",
+      "BEL"
+    ],
+    "BELIZE": [
+      "Belize Dollar",
+      "BZD"
+    ],
+    "BENIN": [
+      "CFA Franc BCEAO",
+      "XOF"
+    ],
+    "BERMUDA": [
+      "Bermudian Dollar",
+      "BMD"
+    ],
+    "BHUTAN": [
+      "Ngultrum",
+      "BTN"
+    ],
+    "BOLIVIA (PLURINATIONAL STATE OF)": [
+      "Mvdol",
+      "BOV"
+    ],
+    "BONAIRE, SINT EUSTATIUS AND SABA": [
+      "US Dollar",
+      "USD"
+    ],
+    "BOSNIA AND HERZEGOVINA": [
+      "Dinar",
+      "BAD"
+    ],
+    "BOTSWANA": [
+      "Pula",
+      "BWP"
+    ],
+    "BOUVET ISLAND": [
+      "Norwegian Krone",
+      "NOK"
+    ],
+    "BRAZIL": [
+      "Cruzeiro Real",
+      "BRR"
+    ],
+    "BRITISH INDIAN OCEAN TERRITORY (THE)": [
+      "US Dollar",
+      "USD"
+    ],
+    "BRUNEI DARUSSALAM": [
+      "Brunei Dollar",
+      "BND"
+    ],
+    "BULGARIA": [
+      "Lev",
+      "BGL"
+    ],
+    "BURKINA FASO": [
+      "CFA Franc BCEAO",
+      "XOF"
+    ],
+    "BURUNDI": [
+      "Burundi Franc",
+      "BIF"
+    ],
+    "CABO VERDE": [
+      "Cabo Verde Escudo",
+      "CVE"
+    ],
+    "CAMBODIA": [
+      "Riel",
+      "KHR"
+    ],
+    "CAMEROON": [
+      "CFA Franc BEAC",
+      "XAF"
+    ],
+    "CANADA": [
+      "Canadian Dollar",
+      "CAD"
+    ],
+    "CAYMAN ISLANDS (THE)": [
+      "Cayman Islands Dollar",
+      "KYD"
+    ],
+    "CENTRAL AFRICAN REPUBLIC (THE)": [
+      "CFA Franc BEAC",
+      "XAF"
+    ],
+    "CHAD": [
+      "CFA Franc BEAC",
+      "XAF"
+    ],
+    "CHILE": [
+      "Unidad de Fomento",
+      "CLF"
+    ],
+    "CHINA": [
+      "Yuan Renminbi",
+      "CNY"
+    ],
+    "CHRISTMAS ISLAND": [
+      "Australian Dollar",
+      "AUD"
+    ],
+    "COCOS (KEELING) ISLANDS (THE)": [
+      "Australian Dollar",
+      "AUD"
+    ],
+    "COLOMBIA": [
+      "Unidad de Valor Real",
+      "COU"
+    ],
+    "COMOROS (THE)": [
+      "Comorian Franc ",
+      "KMF"
+    ],
+    "CONGO (THE DEMOCRATIC REPUBLIC OF THE)": [
+      "Congolese Franc",
+      "CDF"
+    ],
+    "CONGO (THE)": [
+      "CFA Franc BEAC",
+      "XAF"
+    ],
+    "COOK ISLANDS (THE)": [
+      "New Zealand Dollar",
+      "NZD"
+    ],
+    "COSTA RICA": [
+      "Costa Rican Colon",
+      "CRC"
+    ],
+    "CÔTE D'IVOIRE": [
+      "CFA Franc BCEAO",
+      "XOF"
+    ],
+    "CROATIA": [
+      "Croatian Kuna",
+      "HRK"
+    ],
+    "CUBA": [
+      "Peso Convertible",
+      "CUC"
+    ],
+    "CURAÇAO": [
+      "Netherlands Antillean Guilder",
+      "ANG"
+    ],
+    "CYPRUS": [
+      "Cyprus Pound",
+      "CYP"
+    ],
+    "CZECHIA": [
+      "Czech Koruna",
+      "CZK"
+    ],
+    "DENMARK": [
+      "Danish Krone",
+      "DKK"
+    ],
+    "DJIBOUTI": [
+      "Djibouti Franc",
+      "DJF"
+    ],
+    "DOMINICA": [
+      "East Caribbean Dollar",
+      "XCD"
+    ],
+    "DOMINICAN REPUBLIC (THE)": [
+      "Dominican Peso",
+      "DOP"
+    ],
+    "ECUADOR": [
+      "Unidad de Valor Constante (UVC)",
+      "ECV"
+    ],
+    "EGYPT": [
+      "Egyptian Pound",
+      "EGP"
+    ],
+    "EL SALVADOR": [
+      "US Dollar",
+      "USD"
+    ],
+    "EQUATORIAL GUINEA": [
+      "Ekwele",
+      "GQE"
+    ],
+    "ERITREA": [
+      "Nakfa",
+      "ERN"
+    ],
+    "ESTONIA": [
+      "Kroon",
+      "EEK"
+    ],
+    "ETHIOPIA": [
+      "Ethiopian Birr",
+      "ETB"
+    ],
+    "EUROPEAN UNION": [
+      "Euro",
+      "EUR"
+    ],
+    "FALKLAND ISLANDS (THE) [MALVINAS]": [
+      "Falkland Islands Pound",
+      "FKP"
+    ],
+    "FAROE ISLANDS (THE)": [
+      "Danish Krone",
+      "DKK"
+    ],
+    "FIJI": [
+      "Fiji Dollar",
+      "FJD"
+    ],
+    "FINLAND": [
+      "Markka",
+      "FIM"
+    ],
+    "FRANCE": [
+      "French Franc",
+      "FRF"
+    ],
+    "FRENCH GUIANA": [
+      "Euro",
+      "EUR"
+    ],
+    "FRENCH POLYNESIA": [
+      "CFP Franc",
+      "XPF"
+    ],
+    "FRENCH SOUTHERN TERRITORIES (THE)": [
+      "Euro",
+      "EUR"
+    ],
+    "GABON": [
+      "CFA Franc BEAC",
+      "XAF"
+    ],
+    "GAMBIA (THE)": [
+      "Dalasi",
+      "GMD"
+    ],
+    "GEORGIA": [
+      "Russian Ruble",
+      "RUR"
+    ],
+    "GERMANY": [
+      "Deutsche Mark",
+      "DEM"
+    ],
+    "GHANA": [
+      "Ghana Cedi",
+      "GHP"
+    ],
+    "GIBRALTAR": [
+      "Gibraltar Pound",
+      "GIP"
+    ],
+    "GREECE": [
+      "Drachma",
+      "GRD"
+    ],
+    "GREENLAND": [
+      "Danish Krone",
+      "DKK"
+    ],
+    "GRENADA": [
+      "East Caribbean Dollar",
+      "XCD"
+    ],
+    "GUADELOUPE": [
+      "French Franc",
+      "FRF"
+    ],
+    "GUAM": [
+      "US Dollar",
+      "USD"
+    ],
+    "GUATEMALA": [
+      "Quetzal",
+      "GTQ"
+    ],
+    "GUERNSEY": [
+      "Pound Sterling",
+      "GBP"
+    ],
+    "GUINEA": [
+      "Syli",
+      "GNS"
+    ],
+    "GUINEA-BISSAU": [
+      "Guinea-Bissau Peso",
+      "GWP"
+    ],
+    "GUYANA": [
+      "Guyana Dollar",
+      "GYD"
+    ],
+    "HAITI": [
+      "US Dollar",
+      "USD"
+    ],
+    "HEARD ISLAND AND McDONALD ISLANDS": [
+      "Australian Dollar",
+      "AUD"
+    ],
+    "HOLY SEE (THE)": [
+      "Euro",
+      "EUR"
+    ],
+    "HONDURAS": [
+      "Lempira",
+      "HNL"
+    ],
+    "HONG KONG": [
+      "Hong Kong Dollar",
+      "HKD"
+    ],
+    "HUNGARY": [
+      "Forint",
+      "HUF"
+    ],
+    "ICELAND": [
+      "Old Krona",
+      "ISJ"
+    ],
+    "INDIA": [
+      "Indian Rupee",
+      "INR"
+    ],
+    "INDONESIA": [
+      "Rupiah",
+      "IDR"
+    ],
+    "INTERNATIONAL MONETARY FUND (IMF) ": [
+      "SDR (Special Drawing Right)",
+      "XDR"
+    ],
+    "IRAN (ISLAMIC REPUBLIC OF)": [
+      "Iranian Rial",
+      "IRR"
+    ],
+    "IRAQ": [
+      "Iraqi Dinar",
+      "IQD"
+    ],
+    "IRELAND": [
+      "Irish Pound",
+      "IEP"
+    ],
+    "ISLE OF MAN": [
+      "Pound Sterling",
+      "GBP"
+    ],
+    "ISRAEL": [
+      "Old Shekel",
+      "ILR"
+    ],
+    "ITALY": [
+      "Italian Lira",
+      "ITL"
+    ],
+    "JAMAICA": [
+      "Jamaican Dollar",
+      "JMD"
+    ],
+    "JAPAN": [
+      "Yen",
+      "JPY"
+    ],
+    "JERSEY": [
+      "Pound Sterling",
+      "GBP"
+    ],
+    "JORDAN": [
+      "Jordanian Dinar",
+      "JOD"
+    ],
+    "KAZAKHSTAN": [
+      "Russian Ruble",
+      "RUR"
+    ],
+    "KENYA": [
+      "Kenyan Shilling",
+      "KES"
+    ],
+    "KIRIBATI": [
+      "Australian Dollar",
+      "AUD"
+    ],
+    "KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)": [
+      "North Korean Won",
+      "KPW"
+    ],
+    "KOREA (THE REPUBLIC OF)": [
+      "Won",
+      "KRW"
+    ],
+    "KUWAIT": [
+      "Kuwaiti Dinar",
+      "KWD"
+    ],
+    "KYRGYZSTAN": [
+      "Russian Ruble",
+      "RUR"
+    ],
+    "LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)": [
+      "Lao Kip",
+      "LAK"
+    ],
+    "LATVIA": [
+      "Latvian Ruble",
+      "LVR"
+    ],
+    "LEBANON": [
+      "Lebanese Pound",
+      "LBP"
+    ],
+    "LESOTHO": [
+      "Financial Rand",
+      "ZAL"
+    ],
+    "LIBERIA": [
+      "Liberian Dollar",
+      "LRD"
+    ],
+    "LIBYA": [
+      "Libyan Dinar",
+      "LYD"
+    ],
+    "LIECHTENSTEIN": [
+      "Swiss Franc",
+      "CHF"
+    ],
+    "LITHUANIA": [
+      "Talonas",
+      "LTT"
+    ],
+    "LUXEMBOURG": [
+      "Luxembourg Financial Franc",
+      "LUL"
+    ],
+    "MACAO": [
+      "Pataca",
+      "MOP"
+    ],
+    "MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)": [
+      "Denar",
+      "MKD"
+    ],
+    "MADAGASCAR": [
+      "Malagasy Franc",
+      "MGF"
+    ],
+    "MALAWI": [
+      "Kwacha",
+      "MWK"
+    ],
+    "MALAYSIA": [
+      "Malaysian Ringgit",
+      "MYR"
+    ],
+    "MALDIVES": [
+      "Maldive Rupee",
+      "MVQ"
+    ],
+    "MALI": [
+      "Mali Franc",
+      "MLF"
+    ],
+    "MALTA": [
+      "Maltese Pound",
+      "MTP"
+    ],
+    "MARSHALL ISLANDS (THE)": [
+      "US Dollar",
+      "USD"
+    ],
+    "MARTINIQUE": [
+      "French Franc",
+      "FRF"
+    ],
+    "MAURITANIA": [
+      "Ouguiya",
+      "MRO"
+    ],
+    "MAURITIUS": [
+      "Mauritius Rupee",
+      "MUR"
+    ],
+    "MAYOTTE": [
+      "French Franc",
+      "FRF"
+    ],
+    "MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP": [
+      "ADB Unit of Account",
+      "XUA"
+    ],
+    "MEXICO": [
+      "Mexican Peso",
+      "MXP"
+    ],
+    "MICRONESIA (FEDERATED STATES OF)": [
+      "US Dollar",
+      "USD"
+    ],
+    "MOLDOVA (THE REPUBLIC OF)": [
+      "Moldovan Leu",
+      "MDL"
+    ],
+    "MONACO": [
+      "French Franc",
+      "FRF"
+    ],
+    "MONGOLIA": [
+      "Tugrik",
+      "MNT"
+    ],
+    "MONTENEGRO": [
+      "Euro",
+      "EUR"
+    ],
+    "MONTSERRAT": [
+      "East Caribbean Dollar",
+      "XCD"
+    ],
+    "MOROCCO": [
+      "Moroccan Dirham",
+      "MAD"
+    ],
+    "MOZAMBIQUE": [
+      "Mozambique Metical",
+      "MZM"
+    ],
+    "MYANMAR": [
+      "Kyat",
+      "MMK"
+    ],
+    "NAMIBIA": [
+      "Rand",
+      "ZAR"
+    ],
+    "NAURU": [
+      "Australian Dollar",
+      "AUD"
+    ],
+    "NEPAL": [
+      "Nepalese Rupee",
+      "NPR"
+    ],
+    "NETHERLANDS (THE)": [
+      "Euro",
+      "EUR"
+    ],
+    "NEW CALEDONIA": [
+      "CFP Franc",
+      "XPF"
+    ],
+    "NEW ZEALAND": [
+      "New Zealand Dollar",
+      "NZD"
+    ],
+    "NICARAGUA": [
+      "Cordoba",
+      "NIC"
+    ],
+    "NIGER (THE)": [
+      "CFA Franc BCEAO",
+      "XOF"
+    ],
+    "NIGERIA": [
+      "Naira",
+      "NGN"
+    ],
+    "NIUE": [
+      "New Zealand Dollar",
+      "NZD"
+    ],
+    "NORFOLK ISLAND": [
+      "Australian Dollar",
+      "AUD"
+    ],
+    "NORTHERN MARIANA ISLANDS (THE)": [
+      "US Dollar",
+      "USD"
+    ],
+    "NORWAY": [
+      "Norwegian Krone",
+      "NOK"
+    ],
+    "OMAN": [
+      "Rial Omani",
+      "OMR"
+    ],
+    "PAKISTAN": [
+      "Pakistan Rupee",
+      "PKR"
+    ],
+    "PALAU": [
+      "US Dollar",
+      "USD"
+    ],
+    "PALESTINE, STATE OF": [
+      "No universal currency",
+      ""
+    ],
+    "PANAMA": [
+      "US Dollar",
+      "USD"
+    ],
+    "PAPUA NEW GUINEA": [
+      "Kina",
+      "PGK"
+    ],
+    "PARAGUAY": [
+      "Guarani",
+      "PYG"
+    ],
+    "PERU": [
+      "Sol",
+      "PES"
+    ],
+    "PHILIPPINES (THE)": [
+      "Philippine Peso",
+      "PHP"
+    ],
+    "PITCAIRN": [
+      "New Zealand Dollar",
+      "NZD"
+    ],
+    "POLAND": [
+      "Zloty",
+      "PLZ"
+    ],
+    "PORTUGAL": [
+      "Portuguese Escudo",
+      "PTE"
+    ],
+    "PUERTO RICO": [
+      "US Dollar",
+      "USD"
+    ],
+    "QATAR": [
+      "Qatari Rial",
+      "QAR"
+    ],
+    "RÉUNION": [
+      "French Franc",
+      "FRF"
+    ],
+    "ROMANIA": [
+      "New Romanian Leu ",
+      "RON"
+    ],
+    "RUSSIAN FEDERATION (THE)": [
+      "Russian Ruble",
+      "RUB"
+    ],
+    "RWANDA": [
+      "Rwanda Franc",
+      "RWF"
+    ],
+    "SAINT BARTHÉLEMY": [
+      "Euro",
+      "EUR"
+    ],
+    "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA": [
+      "Saint Helena Pound",
+      "SHP"
+    ],
+    "SAINT KITTS AND NEVIS": [
+      "East Caribbean Dollar",
+      "XCD"
+    ],
+    "SAINT LUCIA": [
+      "East Caribbean Dollar",
+      "XCD"
+    ],
+    "SAINT MARTIN (FRENCH PART)": [
+      "Euro",
+      "EUR"
+    ],
+    "SAINT PIERRE AND MIQUELON": [
+      "French Franc",
+      "FRF"
+    ],
+    "SAINT VINCENT AND THE GRENADINES": [
+      "East Caribbean Dollar",
+      "XCD"
+    ],
+    "SAMOA": [
+      "Tala",
+      "WST"
+    ],
+    "SAN MARINO": [
+      "Italian Lira",
+      "ITL"
+    ],
+    "SAO TOME AND PRINCIPE": [
+      "Dobra",
+      "STD"
+    ],
+    "SAUDI ARABIA": [
+      "Saudi Riyal",
+      "SAR"
+    ],
+    "SENEGAL": [
+      "CFA Franc BCEAO",
+      "XOF"
+    ],
+    "SERBIA": [
+      "Serbian Dinar",
+      "RSD"
+    ],
+    "SEYCHELLES": [
+      "Seychelles Rupee",
+      "SCR"
+    ],
+    "SIERRA LEONE": [
+      "Leone",
+      "SLL"
+    ],
+    "SINGAPORE": [
+      "Singapore Dollar",
+      "SGD"
+    ],
+    "SINT MAARTEN (DUTCH PART)": [
+      "Netherlands Antillean Guilder",
+      "ANG"
+    ],
+    "SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS \"SUCRE\"": [
+      "Sucre",
+      "XSU"
+    ],
+    "SLOVAKIA": [
+      "Slovak Koruna",
+      "SKK"
+    ],
+    "SLOVENIA": [
+      "Tolar",
+      "SIT"
+    ],
+    "SOLOMON ISLANDS": [
+      "Solomon Islands Dollar",
+      "SBD"
+    ],
+    "SOMALIA": [
+      "Somali Shilling",
+      "SOS"
+    ],
+    "SOUTH AFRICA": [
+      "Financial Rand",
+      "ZAL"
+    ],
+    "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS": [
+      "No universal currency",
+      ""
+    ],
+    "SOUTH SUDAN": [
+      "Sudanese Pound",
+      "SDG"
+    ],
+    "SPAIN": [
+      "Spanish Peseta",
+      "ESP"
+    ],
+    "SRI LANKA": [
+      "Sri Lanka Rupee",
+      "LKR"
+    ],
+    "SUDAN (THE)": [
+      "Sudanese Pound",
+      "SDG"
+    ],
+    "SURINAME": [
+      "Surinam Guilder",
+      "SRG"
+    ],
+    "SVALBARD AND JAN MAYEN": [
+      "Norwegian Krone",
+      "NOK"
+    ],
+    "ESWATINI": [
+      "Lilangeni",
+      "SZL"
+    ],
+    "SWEDEN": [
+      "Swedish Krona",
+      "SEK"
+    ],
+    "SWITZERLAND": [
+      "WIR Franc (for electronic)",
+      "CHC"
+    ],
+    "SYRIAN ARAB REPUBLIC": [
+      "Syrian Pound",
+      "SYP"
+    ],
+    "TAIWAN (PROVINCE OF CHINA)": [
+      "New Taiwan Dollar",
+      "TWD"
+    ],
+    "TAJIKISTAN": [
+      "Tajik Ruble",
+      "TJR"
+    ],
+    "TANZANIA, UNITED REPUBLIC OF": [
+      "Tanzanian Shilling",
+      "TZS"
+    ],
+    "THAILAND": [
+      "Baht",
+      "THB"
+    ],
+    "TIMOR-LESTE": [
+      "Timor Escudo",
+      "TPE"
+    ],
+    "TOGO": [
+      "CFA Franc BCEAO",
+      "XOF"
+    ],
+    "TOKELAU": [
+      "New Zealand Dollar",
+      "NZD"
+    ],
+    "TONGA": [
+      "Pa’anga",
+      "TOP"
+    ],
+    "TRINIDAD AND TOBAGO": [
+      "Trinidad and Tobago Dollar",
+      "TTD"
+    ],
+    "TUNISIA": [
+      "Tunisian Dinar",
+      "TND"
+    ],
+    "TURKEY": [
+      "New Turkish Lira",
+      "TRY"
+    ],
+    "TURKMENISTAN": [
+      "Turkmenistan Manat",
+      "TMM"
+    ],
+    "TURKS AND CAICOS ISLANDS (THE)": [
+      "US Dollar",
+      "USD"
+    ],
+    "TUVALU": [
+      "Australian Dollar",
+      "AUD"
+    ],
+    "UGANDA": [
+      "Old Shilling",
+      "UGW"
+    ],
+    "UKRAINE": [
+      "Karbovanet",
+      "UAK"
+    ],
+    "UNITED ARAB EMIRATES (THE)": [
+      "UAE Dirham",
+      "AED"
+    ],
+    "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)": [
+      "Pound Sterling",
+      "GBP"
+    ],
+    "UNITED STATES MINOR OUTLYING ISLANDS (THE)": [
+      "US Dollar",
+      "USD"
+    ],
+    "UNITED STATES OF AMERICA (THE)": [
+      "US Dollar (Next day)",
+      "USN"
+    ],
+    "URUGUAY": [
+      "Uruguayan Peso",
+      "UYP"
+    ],
+    "UZBEKISTAN": [
+      "Russian Ruble",
+      "RUR"
+    ],
+    "VANUATU": [
+      "Vatu",
+      "VUV"
+    ],
+    "VENEZUELA (BOLIVARIAN REPUBLIC OF)": [
+      "Bolívar",
+      "VEF"
+    ],
+    "VIET NAM": [
+      "Dong",
+      "VND"
+    ],
+    "VIRGIN ISLANDS (BRITISH)": [
+      "US Dollar",
+      "USD"
+    ],
+    "VIRGIN ISLANDS (U.S.)": [
+      "US Dollar",
+      "USD"
+    ],
+    "WALLIS AND FUTUNA": [
+      "CFP Franc",
+      "XPF"
+    ],
+    "WESTERN SAHARA": [
+      "Moroccan Dirham",
+      "MAD"
+    ],
+    "YEMEN": [
+      "Yemeni Rial",
+      "YER"
+    ],
+    "ZAMBIA": [
+      "Zambian Kwacha",
+      "ZMK"
+    ],
+    "ZIMBABWE": [
+      "Zimbabwe Dollar",
+      "ZWR"
+    ],
+    "ZZ01_Bond Markets Unit European_EURCO": [
+      "Bond Markets Unit European Composite Unit (EURCO)",
+      "XBA"
+    ],
+    "ZZ02_Bond Markets Unit European_EMU-6": [
+      "Bond Markets Unit European Monetary Unit (E.M.U.-6)",
+      "XBB"
+    ],
+    "ZZ03_Bond Markets Unit European_EUA-9": [
+      "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)",
+      "XBC"
+    ],
+    "ZZ04_Bond Markets Unit European_EUA-17": [
+      "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)",
+      "XBD"
+    ],
+    "ZZ06_Testing_Code": [
+      "Codes specifically reserved for testing purposes",
+      "XTS"
+    ],
+    "ZZ07_No_Currency": [
+      "The codes assigned for transactions where no currency is involved",
+      "XXX"
+    ],
+    "ZZ08_Gold": [
+      "Gold",
+      "XAU"
+    ],
+    "ZZ09_Palladium": [
+      "Palladium",
+      "XPD"
+    ],
+    "ZZ10_Platinum": [
+      "Platinum",
+      "XPT"
+    ],
+    "ZZ11_Silver": [
+      "Silver",
+      "XAG"
+    ],
+    "BOLIVIA": [
+      "Peso boliviano",
+      "BOP"
+    ],
+    "BURMA ": [
+      "Kyat",
+      "BUK"
+    ],
+    "CZECHOSLOVAKIA": [
+      "Koruna",
+      "CSK"
+    ],
+    "EUROPEAN MONETARY CO-OPERATION FUND (EMCF)": [
+      "European Currency Unit (E.C.U)",
+      "XEU"
+    ],
+    "FRENCH  GUIANA": [
+      "French Franc",
+      "FRF"
+    ],
+    "FRENCH SOUTHERN TERRITORIES": [
+      "French Franc",
+      "FRF"
+    ],
+    "GERMAN DEMOCRATIC REPUBLIC": [
+      "Mark der DDR",
+      "DDM"
+    ],
+    "HOLY SEE (VATICAN CITY STATE)": [
+      "Italian Lira",
+      "ITL"
+    ],
+    "LAO": [
+      "Pathet Lao Kip",
+      "LAJ"
+    ],
+    "MOLDOVA, REPUBLIC OF": [
+      "Russian Ruble",
+      "RUR"
+    ],
+    "NETHERLANDS": [
+      "Netherlands Guilder",
+      "NLG"
+    ],
+    "NETHERLANDS ANTILLES": [
+      "Netherlands Antillean Guilder",
+      "ANG"
+    ],
+    "RUSSIAN FEDERATION": [
+      "Russian Ruble",
+      "RUR"
+    ],
+    "SAINT MARTIN": [
+      "French Franc",
+      "FRF"
+    ],
+    "SAINT-BARTHÉLEMY": [
+      "French Franc",
+      "FRF"
+    ],
+    "SERBIA AND MONTENEGRO": [
+      "Euro",
+      "EUR"
+    ],
+    "SOUTHERN RHODESIA ": [
+      "Rhodesian Dollar",
+      "RHD"
+    ],
+    "SUDAN": [
+      "Sudanese Pound",
+      "SDP"
+    ],
+    "SWAZILAND": [
+      "Lilangeni",
+      "SZL"
+    ],
+    "UNION OF SOVIET SOCIALIST REPUBLICS": [
+      "Rouble",
+      "SUR"
+    ],
+    "UNITED STATES": [
+      "US Dollar (Same day)",
+      "USS"
+    ],
+    "VENEZUELA": [
+      "Bolivar Fuerte",
+      "VEF"
+    ],
+    "VIETNAM": [
+      "Old Dong",
+      "VNC"
+    ],
+    "YEMEN, DEMOCRATIC": [
+      "Yemeni Dinar",
+      "YDD"
+    ],
+    "YUGOSLAVIA": [
+      "Yugoslavian Dinar",
+      "YUN"
+    ],
+    "ZAIRE": [
+      "Zaire",
+      "ZRZ"
+    ],
+    "ZZ01_Gold-Franc": [
+      "Gold-Franc",
+      "XFO"
+    ],
+    "ZZ02_RINET Funds Code": [
+      "RINET Funds Code",
+      "XRE"
+    ],
+    "ZZ05_UIC-Franc": [
+      "UIC-Franc",
+      "XFU"
+    ]
+  }
