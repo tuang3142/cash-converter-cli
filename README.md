@@ -38,9 +38,9 @@ $ cashconverter convert 3142 jpy vnd
 pip install cash-converter-cli
 ```
 
-## credits
+## acknowledgement
 
-special thanks to [Vijay Mahrra](https://github.com/vijinho)'s [data](https://github.com/vijinho/ISO-Country-Data) of country code.
+special thanks to [Vijay Mahrra's](https://github.com/vijinho) [data of country code](https://github.com/vijinho/ISO-Country-Data).
 
 ## to do
 
